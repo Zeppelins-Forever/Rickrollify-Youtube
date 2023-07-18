@@ -9,7 +9,7 @@
         "64": "icons/icon-64.png",
         "96": "icons/icon-96.png"
     },
-    "description": "Modify YouTube thumbnails to include the Hololive VTuber Fauna",
+    "description": "Modify YouTube thumbnails to be Rick Astley's Never Gonna Give You Up",
     "host_permissions": [
         "https://www.youtube.com/*"
     ],
