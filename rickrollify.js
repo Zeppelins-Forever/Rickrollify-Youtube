@@ -105,6 +105,6 @@ getHighestImageIndex()
   .then(() => {
     setInterval(applyOverlayToThumbnails, 100);
     console.log(
-      "CeresFaunafy Loaded Successfully, " + highestImageIndex + " images detected."
+      "Rickrollify Loaded Successfully, " + highestImageIndex + " images detected."
     );
   })
