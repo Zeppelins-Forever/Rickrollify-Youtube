@@ -8,4 +8,5 @@ Instructions on how to port and modify the extension can be found [on MagicJinn'
 
 -----------------------------------------------------------------------------------------------
 [Chrome Extension](https://chrome.google.com/webstore/detail/youtube-rickrollify/mhoggaemclenigbfbcghnacadanhnhge)
+
 Firefox extension was rejected by Mozilla, I am working on that.
