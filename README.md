@@ -7,6 +7,6 @@ This is a fork of [MagicJinn/MrBeastify-Youtube](https://github.com/MagicJinn/Mr
 Instructions on how to port and modify the extension can be found [on MagicJinn's page](https://github.com/MagicJinn/MrBeastify-Youtube/issues/16) or in "how-to-upload.txt".
 
 -----------------------------------------------------------------------------------------------
-[Chrome Extension](https://chrome.google.com/webstore/detail/youtube-rickrollify/mhoggaemclenigbfbcghnacadanhnhge)
 
-Firefox extension was rejected by Mozilla, I am working on that.
+Chrome Extensions work on most Chromium-based browsers, and Firefox on most Firefox-based browsers.
+[Chrome](https://chrome.google.com/webstore/detail/youtube-rickrollify/mhoggaemclenigbfbcghnacadanhnhge) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-rickastlefy/)
