@@ -9,4 +9,5 @@ Instructions on how to port and modify the extension can be found [on MagicJinn'
 -----------------------------------------------------------------------------------------------
 
 Chrome Extensions work on most Chromium-based browsers, and Firefox on most Firefox-based browsers.
+
 [Chrome](https://chrome.google.com/webstore/detail/youtube-rickrollify/mhoggaemclenigbfbcghnacadanhnhge) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-rickastlefy/)
